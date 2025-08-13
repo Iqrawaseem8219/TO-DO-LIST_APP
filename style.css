@@ -72,7 +72,7 @@ ul li{
  height: 28px;
  width: 28px;
  border-radius: 50%;
- background-image: url(images/OIP\ \(1\).jpeg);
+ background-image: url(https://icons.veryicon.com/png/o/miscellaneous/outgoing-system/unchecked-25.png);
  background-size: cover;
  background-position: center;
  top: 12px;
@@ -83,7 +83,7 @@ ul li.checked{
  text-decoration: line-through;
 }
  ul li.checked::before{
- background-image: url(images/OIP.jpeg);
+ background-image: url(https://tse3.mm.bing.net/th/id/OIP.nA8JC2yBXglrAtIMpWNtWQHaHa?pid=Api&P=0&h=220);
 }
 ul li span{
  position: absolute;
